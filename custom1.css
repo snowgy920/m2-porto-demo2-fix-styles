@@ -1,0 +1,15 @@
+.product-item-name a {
+  white-space: initial;
+}
+.minicart-items .product-item-details {
+  max-width: 100%;
+}
+.minicart-items .product-item-name {
+  white-space: initial;
+}
+.opc-block-shipping-information .shipping-information-title .action-edit {
+  top: 0;
+}
+.multicheckout .table-wrapper .col .qty {
+  position: relative;
+}
