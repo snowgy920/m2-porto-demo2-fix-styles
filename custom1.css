@@ -1,7 +1,7 @@
 .product-item-name a {
   white-space: initial;
 }
-.minicart-items .product-item-details {
+#checkout .minicart-items .product-item-details {
   max-width: 100%;
 }
 .minicart-items .product-item-name {
